@@ -17,7 +17,7 @@ git clone https://github.com/Cedric-F/Todos-VueJS.git
 _**Dependencies and local use**_
 
 * `npm install` to install the dependencies.
-* `npm start` to start a server and test the development build on `localhost:8080`.
+* `npm serve` to start a server and test the development build on `localhost:8080`.
 
 _**Production build**_
 
