@@ -1,6 +1,7 @@
 # VueJS Todo App
 
 A self-teaching project using VueJS.
+
 ![](https://i.imgur.com/8kFOmxc.png)
 
 ## Getting started
