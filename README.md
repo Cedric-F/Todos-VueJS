@@ -23,7 +23,7 @@ _**Production build**_
 
 Testing page available **[here](https://cedric-f.github.io/Todos-VueJS/)**
 
-**Note**: The API is yet to be deployed, so it's best using it locally. You can find the server [here](https://github.com/Cedric-F/Todos-API).
+**Note**: The API is yet to be deployed, so it's best to use it locally. You can find the server [here](https://github.com/Cedric-F/Todos-API).
 
 ## Using the application
 
